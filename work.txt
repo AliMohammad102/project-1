@@ -1,2 +1,3 @@
 create page sittings 
 create page home
+create page web view
