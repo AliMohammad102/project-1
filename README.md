@@ -26,5 +26,6 @@ git add
 
 #### How to Add a video:
 
-[![What is git](https://share.google/images/J1dHP3Ht0eqfQxyda)](https://www.youtube.com/live/fv4I2sWGck8?si=hBFLJeQJrGZU5AzH)
+[![What is git](https://github.com/user-attachments/assets/46e7c944-1f55-4e7b-91b3-60ed4e964ae3)](https://www.youtube.com/live/fv4I2sWGck8?si=hBFLJeQJrGZU5AzH)
 
+[<img src="https://github.com/user-attachments/assets/46e7c944-1f55-4e7b-91b3-60ed4e964ae3" width="50%"> ](https://www.youtube.com/live/fv4I2sWGck8?si=hBFLJeQJrGZU5AzH)
